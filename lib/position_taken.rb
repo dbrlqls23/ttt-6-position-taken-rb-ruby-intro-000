@@ -8,3 +8,4 @@ def position_taken?(board, index)
 
     expect(position_taken?(board, index)).to be(false)
 end
+  
