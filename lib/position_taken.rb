@@ -2,5 +2,5 @@
 # require 'pry'
 def position_taken?(board, index)
   # binding.pry
-
+puts board[0]
 end
